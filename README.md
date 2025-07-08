@@ -1,11 +1,7 @@
 # Planificador de Rutas Óptimas de Grafos
 
-Este programa forma parte de un proyecto universitario sujeto a errores y sugerencias 
-posibles, enfocado en aplicar conceptos de matemáticas discretas para resolver problemas 
-reales en logística y distribución automática.
-
 Este programa forma parte de un proyecto universitario sujeto a errores y suegerencias 
-posibuleses una propuesta de solución al problema de planificación ineficiente de rutas 
+posibles, una propuesta de solución al problema de planificación ineficiente de rutas 
 en empresas de distribución automática, especialmente en sectores como alimentos, bebidas y 
 bienes de consumo rápido. Estas empresas a menudo enfrentan pérdidas por rutas mal diseñadas, 
 lo cual genera mayores costos operativos, consumo excesivo de combustible y tiempos de entrega 
